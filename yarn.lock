@@ -942,9 +942,6 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps":
-  version "1.0.0"
-
 "@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
