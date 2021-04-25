@@ -54,7 +54,7 @@ If you want to use the module directly, or in other modules, you can do so by im
 ```javascript
 import UserProfile from "@modules/user-profile";
 
-const { title, navigator, slice } = Profile;
+const { title, navigator, slice } = UserProfile;
 ```
 
 ## Contributing
