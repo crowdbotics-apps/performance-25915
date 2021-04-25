@@ -2,7 +2,7 @@ import React from "react";
 import { View, Text, StyleSheet, Pressable } from 'react-native';
 import { useNavigationState } from "@react-navigation/native";
 
-const title = "App Menu";
+const title = "Bauer Performance";
 
 function AppMenu({ navigation }) {
   const routes = useNavigationState(
